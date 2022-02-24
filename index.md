@@ -21,9 +21,9 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 
 ## Publications
 ### Conference
-- [CINS: Comprehensive Instruction for Few-shot Learning in Task-oriented Dialog Systems](https://arxiv.org/abs/2109.04645)'', Fei Mi, Yitong Li, Yasheng Wang, AAAI 2022  -----  :cherries: **Oral** (5%) :+1:
+- [CINS: Comprehensive Instruction for Few-shot Learning in Task-oriented Dialog Systems](https://arxiv.org/abs/2109.04645)'', Fei Mi, Yitong Li, Yasheng Wang, AAAI 2022  ---  :cherries: **Oral** (5%) :+1:
 
-- [Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems](https://aclanthology.org/2021.emnlp-main.142/)'', Fei Mi, Wanhao Zhou, Fengyu Cai, Lingjing Kong, Minlie Huang, Boi Faltings, EMNLP 2021  -----  :cherries: **Oral** (5%) :+1:
+- [Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems](https://aclanthology.org/2021.emnlp-main.142/)'', Fei Mi, Wanhao Zhou, Fengyu Cai, Lingjing Kong, Minlie Huang, Boi Faltings, EMNLP 2021  ---  :cherries: **Oral** (5%) :+1:
 
 - [Continual Learning for Natural Language Generation in Task-oriented Dialog Systems](https://aclanthology.org/2020.findings-emnlp.310/), 
 **Fei Mi**, Liangwei Chen, Mengjie Zhao, Minlie Huang, Boi Faltings. 
@@ -33,7 +33,7 @@ Findings of EMNLP 2020. (long paper)
 EMNLP, 2020. (long paper) 
 
 - [ADER: Adaptively Distilled Exemplar Replay Towards Continual Learning for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3383313.3412218?casa_token=845HSBo8dhAAAAAA:FjbqVZkxhi0TwGNo2vjapqlQP-qsCc-iG6ZNnpmigsnZ_6G4Nb_RGUIn_djWHp667fFNZzSFqCVv), **Fei Mi**, Xiaoyu Lin, Boi Faltings. 
-The ACM Conference on Recommender Systems (RecSys), 2020. [paper]   -----  :cherries: **The best short paper award** :+1:
+The ACM Conference on Recommender Systems (RecSys), 2020. [paper]   ---  :cherries: **The best short paper award** :+1:
 
 - [Memory Augmented Neural Model for Incremental Session-based Recommendation](https://www.ijcai.org/proceedings/2020/0300.pdf), **Fei Mi**, Boi Faltings. 
 IJCAI, 2020.
