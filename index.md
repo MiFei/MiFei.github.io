@@ -1,8 +1,6 @@
 # Fei Mi (糜飞)
 
-Research Scientist
-
-Huawei Noah's Ark Lab,
+Research Scientist, Huawei Noah's Ark Lab,
 
 Shenzhen, China
 
