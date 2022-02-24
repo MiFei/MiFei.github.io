@@ -20,7 +20,7 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 - :cherries: Two papers are accepted by ACL 2022
 
 ## Publications
-
+### Conference
 - [CINS: Comprehensive Instruction for Few-shot Learning in Task-oriented Dialog Systems](https://arxiv.org/abs/2109.04645)'', Fei Mi, Yitong Li, Yasheng Wang, AAAI 2022  -----  :cherries: **Oral** (5%) :+1:
 
 - [Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems](https://aclanthology.org/2021.emnlp-main.142/)'', Fei Mi, Wanhao Zhou, Fengyu Cai, Lingjing Kong, Minlie Huang, Boi Faltings, EMNLP 2021  -----  :cherries: **Oral** (5%) :+1:
@@ -47,6 +47,7 @@ International Conference on Educational Data Mining (EDM), 2017.
 - [Probabilistic Graphical Models for Boosting Cardinal and Ordinal Peer Grading in MOOCs](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9534), **Fei Mi**, Dit-Yan Yeung.
 AAAI, 2015.
 
+### Workshop
 - [Generalized Class Incremental Learning](https://openaccess.thecvf.com/content_CVPRW_2020/html/w15/Mi_Generalized_Class_Incremental_Learning_CVPRW_2020_paper.html), **Fei Mi***, Lingjing Kong*, Tao Lin, Kaichen Yu, Boi Faltings. CVPR Workshop on "Continual Learning in Computer Vision" (CLVISION), 2020.
 
 - [Personalization in Goal-oriented Dialog](https://arxiv.org/abs/1706.07503), Chaitanya K. Joshi, **Fei Mi**, Boi Faltings
