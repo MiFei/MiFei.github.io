@@ -1,6 +1,6 @@
 # Fei Mi (糜飞)
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/2612775/155544406-0db03a08-2076-4553-b75a-0edeafc78e94.JPG">
+<img align="right" height="250" src="https://user-images.githubusercontent.com/2612775/155544406-0db03a08-2076-4553-b75a-0edeafc78e94.JPG">
 Research Scientist, Huawei Noah's Ark Lab,
 
 Shenzhen, China
