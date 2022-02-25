@@ -17,8 +17,9 @@ Fei Mi is a research scientist at Huawei Noah's Ark Lab. He obtained his Ph.D. d
 Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 
 ## News
-- :cherries: **Interns are welcome**: we are hiring research interns! If you are interested in comprehensive topics in **Open-domain Dialog Systems** and **Pre-trained Language Models**, feel free to contact me!
 - :cherries: Two papers are accepted by ACL 2022
+- :cherries: **Interns are welcome**: we are hiring research interns! If you are interested in **Open-domain Dialog Systems** and **Pre-trained Language Models**, feel free to contact me! 
+<img align="center" width="400" alt="20220225-091130(WeLinkPC)" src="https://user-images.githubusercontent.com/2612775/155634611-a1eebbd0-921e-4a28-b89a-0f80e6c71523.png">
 
 ## Publications
 ### Conference
