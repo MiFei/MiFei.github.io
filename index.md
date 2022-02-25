@@ -23,9 +23,11 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 
 ## Publications
 ### Conference
-- [CINS: Comprehensive Instruction for Few-shot Learning in Task-oriented Dialog Systems](https://arxiv.org/abs/2109.04645)'', Fei Mi, Yitong Li, Yasheng Wang, AAAI 2022  ---  :cherries: **Oral** (5%) :+1:
+- [SLIM: Explicit Slot-Intent Mapping with BERT for Joint Multi-Intent Detection and Slot Filling](https://arxiv.org/abs/2108.11711), Fengyu Cai, Wanhao Zhou, Fei Mi, Boi Faltings, ICASSP 2022
 
-- [Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems](https://aclanthology.org/2021.emnlp-main.142/)'', Fei Mi, Wanhao Zhou, Fengyu Cai, Lingjing Kong, Minlie Huang, Boi Faltings, EMNLP 2021  ---  :cherries: **Oral** (5%) :+1:
+- [CINS: Comprehensive Instruction for Few-shot Learning in Task-oriented Dialog Systems](https://arxiv.org/abs/2109.04645), Fei Mi, Yitong Li, Yasheng Wang, AAAI 2022  ---  :cherries: **Oral** (5%) :+1:
+
+- [Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems](https://aclanthology.org/2021.emnlp-main.142/), Fei Mi, Wanhao Zhou, Fengyu Cai, Lingjing Kong, Minlie Huang, Boi Faltings, EMNLP 2021  ---  :cherries: **Oral** (5%) :+1:
 
 - [Continual Learning for Natural Language Generation in Task-oriented Dialog Systems](https://aclanthology.org/2020.findings-emnlp.310/), 
 **Fei Mi**, Liangwei Chen, Mengjie Zhao, Minlie Huang, Boi Faltings. 
