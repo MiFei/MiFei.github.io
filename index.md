@@ -11,7 +11,7 @@ Email: mifei2 [at] huawei.com
 
 ## General
 
-Fei Mi is a research scientist at Huawei Noah's Ark Lab. He obtained his Ph.D. degree in Computer Science from The Swiss Federal Institute of Technology Lausanne (EPFL) in 2022, supervised by Prof. [Boi Faltings](https://lia.epfl.ch/~faltings/). Prior to that, he finished my MPhill and Undergraduate in Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Dit-Yan Yeung](https://sites.google.com/view/dyyeung)
+Fei Mi is a research scientist at Huawei Noah's Ark Lab. He obtained his Ph.D. degree in Computer Science from The Swiss Federal Institute of Technology Lausanne (EPFL) in 2022, supervised by Prof. [Boi Faltings](https://lia.epfl.ch/~faltings/). Prior to that, he obtained his MPhill degree from Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Dit-Yan Yeung](https://sites.google.com/view/dyyeung) and Bachelor degree from a joint program between Sun-Yat Sun University (SYSU) and HKUST.
 
 ## Research Interests
 Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
@@ -29,13 +29,13 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 
 - [Continual Learning for Natural Language Generation in Task-oriented Dialog Systems](https://aclanthology.org/2020.findings-emnlp.310/), 
 **Fei Mi**, Liangwei Chen, Mengjie Zhao, Minlie Huang, Boi Faltings. 
-Findings of EMNLP 2020. (long paper) 
+Findings of EMNLP 2020. 
 
 - [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](https://aclanthology.org/2020.emnlp-main.174/), Mengjie Zhao*, Tao Lin*, **Fei Mi**, Martin Jaggi, Hinrich Schütze. 
-EMNLP, 2020. (long paper) 
+EMNLP, 2020. 
 
 - [ADER: Adaptively Distilled Exemplar Replay Towards Continual Learning for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3383313.3412218?casa_token=845HSBo8dhAAAAAA:FjbqVZkxhi0TwGNo2vjapqlQP-qsCc-iG6ZNnpmigsnZ_6G4Nb_RGUIn_djWHp667fFNZzSFqCVv), **Fei Mi**, Xiaoyu Lin, Boi Faltings. 
-The ACM Conference on Recommender Systems (RecSys), 2020. [paper]   ---  :cherries: **The best short paper award** :+1:
+The ACM Conference on Recommender Systems (RecSys), 2020. (short paper)   ---  :cherries: **The best short paper award** :+1:
 
 - [Memory Augmented Neural Model for Incremental Session-based Recommendation](https://www.ijcai.org/proceedings/2020/0300.pdf), **Fei Mi**, Boi Faltings. 
 IJCAI, 2020.
