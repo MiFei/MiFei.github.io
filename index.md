@@ -22,33 +22,46 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 <img align="center" width="400" alt="20220225-091130(WeLinkPC)" src="https://user-images.githubusercontent.com/2612775/155634611-a1eebbd0-921e-4a28-b89a-0f80e6c71523.png">
 
 ## Publications
+
+### Pre-prints
+
+- [Towards Identifying Social Bias in Dialog Systems: Frame, Datasets, and Benchmarks](https://arxiv.org/abs/2202.08011). Jingyan Zhou, Jiawen Deng, **Fei Mi**, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen Meng
+- [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025). Jiawen Deng, Jingyan Zhou, Hao Sun, **Fei Mi**, Minlie Huang
+- [LMTurk: Few-Shot Learners as Crowdsourcing Workers](https://arxiv.org/abs/2112.07522). Mengjie Zhao, **Fei Mi**, Yasheng Wang, Minglei Li, Xin Jiang, Qun Liu, Hinrich Schütze.
+- [UniDS: A Unified Dialogue System for Chit-Chat and Task-oriented Dialogues](https://arxiv.org/abs/2110.08032). Xinyan Zhao, Bin He, Yasheng Wang, Yitong Li, **Fei Mi**, Yajiao Liu, Xin Jiang, Qun Liu, Huanhuan Chen.
+
 ### Conference
-- [SLIM: Explicit Slot-Intent Mapping with BERT for Joint Multi-Intent Detection and Slot Filling](https://arxiv.org/abs/2108.11711), Fengyu Cai, Wanhao Zhou, Fei Mi, Boi Faltings, ICASSP 2022
 
-- [CINS: Comprehensive Instruction for Few-shot Learning in Task-oriented Dialog Systems](https://arxiv.org/abs/2109.04645), Fei Mi, Yitong Li, Yasheng Wang, AAAI 2022  ---  :cherries: **Oral** (5%) :+1:
+- [Continual Prompt Tuning for Dialog State Tracking](https://openreview.net/pdf/1542aca0b87da0e75a08d20296c7c836c114fc20.pdf). Qi Zhu, Bing Li, **Fei Mi**, Minlie Huang, Xiaoyan Zhu. ACL Main 2022
 
-- [Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems](https://aclanthology.org/2021.emnlp-main.142/), Fei Mi, Wanhao Zhou, Fengyu Cai, Lingjing Kong, Minlie Huang, Boi Faltings, EMNLP 2021  ---  :cherries: **Oral** (5%) :+1:
+- [Compilable Neural Code Generation with Compiler Feedback](https://openreview.net/pdf?id=Vk2eq640xdU). Xin Wang, Yasheng Wang, Yao Wan, **Fei Mi**, Yitong Li, Pingyi Zhou, jin liu, hao wu, Xin Jiang, Qun Liu. ACL Findings 2022
 
-- [Continual Learning for Natural Language Generation in Task-oriented Dialog Systems](https://aclanthology.org/2020.findings-emnlp.310/), 
+- [SLIM: Explicit Slot-Intent Mapping with BERT for Joint Multi-Intent Detection and Slot Filling](https://arxiv.org/abs/2108.11711). Fengyu Cai, Wanhao Zhou, Fei Mi, Boi Faltings. ICASSP 2022
+
+- [CINS: Comprehensive Instruction for Few-shot Learning in Task-oriented Dialog Systems](https://arxiv.org/abs/2109.04645). Fei Mi, Yitong Li, Yasheng Wang. AAAI 2022  ---  :cherries: **Oral** (5%) :+1:
+
+- [Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems](https://aclanthology.org/2021.emnlp-main.142/). Fei Mi, Wanhao Zhou, Fengyu Cai, Lingjing Kong, Minlie Huang, Boi Faltings. EMNLP 2021  ---  :cherries: **Oral** (5%) :+1:
+
+- [Continual Learning for Natural Language Generation in Task-oriented Dialog Systems](https://aclanthology.org/2020.findings-emnlp.310/). 
 **Fei Mi**, Liangwei Chen, Mengjie Zhao, Minlie Huang, Boi Faltings. 
 Findings of EMNLP 2020. 
 
-- [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](https://aclanthology.org/2020.emnlp-main.174/), Mengjie Zhao*, Tao Lin*, **Fei Mi**, Martin Jaggi, Hinrich Schütze. 
+- [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](https://aclanthology.org/2020.emnlp-main.174/). Mengjie Zhao*, Tao Lin*, **Fei Mi**, Martin Jaggi, Hinrich Schütze. 
 EMNLP, 2020. 
 
-- [ADER: Adaptively Distilled Exemplar Replay Towards Continual Learning for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3383313.3412218?casa_token=845HSBo8dhAAAAAA:FjbqVZkxhi0TwGNo2vjapqlQP-qsCc-iG6ZNnpmigsnZ_6G4Nb_RGUIn_djWHp667fFNZzSFqCVv), **Fei Mi**, Xiaoyu Lin, Boi Faltings. 
+- [ADER: Adaptively Distilled Exemplar Replay Towards Continual Learning for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3383313.3412218?casa_token=845HSBo8dhAAAAAA:FjbqVZkxhi0TwGNo2vjapqlQP-qsCc-iG6ZNnpmigsnZ_6G4Nb_RGUIn_djWHp667fFNZzSFqCVv). **Fei Mi**, Xiaoyu Lin, Boi Faltings. 
 The ACM Conference on Recommender Systems (RecSys), 2020. (short paper)   ---  :cherries: **The best short paper award** :+1:
 
-- [Memory Augmented Neural Model for Incremental Session-based Recommendation](https://www.ijcai.org/proceedings/2020/0300.pdf), **Fei Mi**, Boi Faltings. 
+- [Memory Augmented Neural Model for Incremental Session-based Recommendation](https://www.ijcai.org/proceedings/2020/0300.pdf). **Fei Mi**, Boi Faltings. 
 IJCAI, 2020.
 
-- [Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems](https://www.ijcai.org/proceedings/2019/0437.pdf), **Fei Mi**, Minlie Huang, Jiyong Zhang, Boi Faltings. 
+- [Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems](https://www.ijcai.org/proceedings/2019/0437.pdf). **Fei Mi**, Minlie Huang, Jiyong Zhang, Boi Faltings. 
 IJCAI, 2019. 
 
-- [Adaptive Sequential Recommendation for Discussion Forums on MOOCs using Context Trees](http://educationaldatamining.org/EDM2017/proc_files/papers/paper_25.pdf), **Fei Mi**, Boi Faltings
+- [Adaptive Sequential Recommendation for Discussion Forums on MOOCs using Context Trees](http://educationaldatamining.org/EDM2017/proc_files/papers/paper_25.pdf). **Fei Mi**, Boi Faltings.
 International Conference on Educational Data Mining (EDM), 2017.
 
-- [Probabilistic Graphical Models for Boosting Cardinal and Ordinal Peer Grading in MOOCs](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9534), **Fei Mi**, Dit-Yan Yeung.
+- [Probabilistic Graphical Models for Boosting Cardinal and Ordinal Peer Grading in MOOCs](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9534). **Fei Mi**, Dit-Yan Yeung.
 AAAI, 2015.
 
 ### Workshop
