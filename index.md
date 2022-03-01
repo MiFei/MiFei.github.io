@@ -36,11 +36,11 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 
 - [Compilable Neural Code Generation with Compiler Feedback](https://openreview.net/pdf?id=Vk2eq640xdU). Xin Wang, Yasheng Wang, Yao Wan, **Fei Mi**, Yitong Li, Pingyi Zhou, jin liu, hao wu, Xin Jiang, Qun Liu. ACL Findings 2022
 
-- [SLIM: Explicit Slot-Intent Mapping with BERT for Joint Multi-Intent Detection and Slot Filling](https://arxiv.org/abs/2108.11711). Fengyu Cai, Wanhao Zhou, Fei Mi, Boi Faltings. ICASSP 2022
+- [SLIM: Explicit Slot-Intent Mapping with BERT for Joint Multi-Intent Detection and Slot Filling](https://arxiv.org/abs/2108.11711). Fengyu Cai, Wanhao Zhou, **Fei Mi**, Boi Faltings. ICASSP 2022
 
-- [CINS: Comprehensive Instruction for Few-shot Learning in Task-oriented Dialog Systems](https://arxiv.org/abs/2109.04645). Fei Mi, Yitong Li, Yasheng Wang. AAAI 2022  ---  :cherries: **Oral** (5%) :+1:
+- [CINS: Comprehensive Instruction for Few-shot Learning in Task-oriented Dialog Systems](https://arxiv.org/abs/2109.04645). **Fei Mi**, Yitong Li, Yasheng Wang. AAAI 2022  ---  :cherries: **Oral** (5%) :+1:
 
-- [Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems](https://aclanthology.org/2021.emnlp-main.142/). Fei Mi, Wanhao Zhou, Fengyu Cai, Lingjing Kong, Minlie Huang, Boi Faltings. EMNLP 2021  ---  :cherries: **Oral** (5%) :+1:
+- [Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems](https://aclanthology.org/2021.emnlp-main.142/). **Fei Mi**, Wanhao Zhou, Fengyu Cai, Lingjing Kong, Minlie Huang, Boi Faltings. EMNLP 2021  ---  :cherries: **Oral** (5%) :+1:
 
 - [Continual Learning for Natural Language Generation in Task-oriented Dialog Systems](https://aclanthology.org/2020.findings-emnlp.310/). 
 **Fei Mi**, Liangwei Chen, Mengjie Zhao, Minlie Huang, Boi Faltings. 
@@ -70,5 +70,5 @@ AAAI, 2015.
 - [Personalization in Goal-oriented Dialog](https://arxiv.org/abs/1706.07503), Chaitanya K. Joshi, **Fei Mi**, Boi Faltings
 NIPS Workshop on "Conversational AI", 2017.
 
-- [Temporal Models for Predicting Student Dropout in Massive Open Online Courses](https://dl.acm.org/doi/abs/10.1109/ICDMW.2015.174), Fei Mi, Dit-Yan Yeung.
+- [Temporal Models for Predicting Student Dropout in Massive Open Online Courses](https://dl.acm.org/doi/abs/10.1109/ICDMW.2015.174), **Fei Mi**, Dit-Yan Yeung.
 IEEE International Conference on Data Mining Workshop (ICDMW), 2015.
