@@ -11,7 +11,7 @@ Email: mifei2 [at] huawei.com
 
 ## General
 
-Fei Mi is a research scientist at Huawei Noah's Ark Lab. He obtained his Ph.D. degree in Computer Science from The Swiss Federal Institute of Technology Lausanne (EPFL) in 2022, supervised by Prof. [Boi Faltings](https://lia.epfl.ch/~faltings/). Prior to that, he obtained his MPhill degree from Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Dit-Yan Yeung](https://sites.google.com/view/dyyeung) and Bachelor degree from a joint program between Sun-Yat Sun University (SYSU) and HKUST.
+Fei Mi is a research scientist at Huawei Noah's Ark Lab. He obtained his Ph.D. degree in Computer Science from The Swiss Federal Institute of Technology Lausanne (EPFL) in 2021, supervised by Prof. [Boi Faltings](https://lia.epfl.ch/~faltings/). Prior to that, he obtained his MPhill degree from Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Dit-Yan Yeung](https://sites.google.com/view/dyyeung) and Bachelor degree from a joint program between Sun-Yat Sun University (SYSU) and HKUST.
 
 ## Research Interests
 Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
