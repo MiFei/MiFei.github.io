@@ -17,7 +17,8 @@ Fei Mi is a research scientist at Huawei Noah's Ark Lab. He obtained his Ph.D. d
 Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 
 ## News
-- :cherries: Two papers are accepted by ACL 2022!!
+- :cherries: 第一版盘古Bot (PanGu-Bot)中文对话模型已发布!! [详情链接](https://arxiv.org/abs/2203.17090)
+- :cherries: Two papers are accepted by ACL 2022 one paper accepted by NAACL 2022!!
 - :cherries: **Interns are welcome**: we are hiring research interns! If you are interested in **Open-domain Dialog Systems** and **Pre-trained Language Models**, feel free to contact me!!
 <img align="center" width="400" alt="20220225-091130(WeLinkPC)" src="https://user-images.githubusercontent.com/2612775/155634611-a1eebbd0-921e-4a28-b89a-0f80e6c71523.png">
 
@@ -25,12 +26,12 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 
 ### Pre-prints
 
+- [PanGu-Bot: Efficient Generative Dialogue Pre-training from Pre-trained Language Model](https://arxiv.org/abs/2203.17090). **Fei Mi**, Yitong Li, Yulong Zeng, Jingyan Zhou, Yasheng Wang, Chuanfei Xu, Lifeng Shang, Xin Jiang, Shiqi Zhao, Qun Liu
 - [Towards Identifying Social Bias in Dialog Systems: Frame, Datasets, and Benchmarks](https://arxiv.org/abs/2202.08011). Jingyan Zhou, Jiawen Deng, **Fei Mi**, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen Meng
 - [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025). Jiawen Deng, Jingyan Zhou, Hao Sun, **Fei Mi**, Minlie Huang
-- [LMTurk: Few-Shot Learners as Crowdsourcing Workers](https://arxiv.org/abs/2112.07522). Mengjie Zhao, **Fei Mi**, Yasheng Wang, Minglei Li, Xin Jiang, Qun Liu, Hinrich Schütze.
-- [UniDS: A Unified Dialogue System for Chit-Chat and Task-oriented Dialogues](https://arxiv.org/abs/2110.08032). Xinyan Zhao, Bin He, Yasheng Wang, Yitong Li, **Fei Mi**, Yajiao Liu, Xin Jiang, Qun Liu, Huanhuan Chen.
 
 ### Conference
+- [LMTurk: Few-Shot Learners as Crowdsourcing Workers](https://arxiv.org/abs/2112.07522). Mengjie Zhao, **Fei Mi**, Yasheng Wang, Minglei Li, Xin Jiang, Qun Liu, Hinrich Schütze. NAACL Findings 2022
 
 - [Continual Prompt Tuning for Dialog State Tracking](https://openreview.net/pdf/1542aca0b87da0e75a08d20296c7c836c114fc20.pdf). Qi Zhu, Bing Li, **Fei Mi**, Minlie Huang, Xiaoyan Zhu. ACL Main 2022
 
@@ -65,6 +66,8 @@ International Conference on Educational Data Mining (EDM), 2017.
 AAAI, 2015.
 
 ### Workshop
+- - [UniDS: A Unified Dialogue System for Chit-Chat and Task-oriented Dialogues](https://arxiv.org/abs/2110.08032). Xinyan Zhao, Bin He, Yasheng Wang, Yitong Li, **Fei Mi**, Yajiao Liu, Xin Jiang, Qun Liu, Huanhuan Chen. ACL Doc2Dial Workshop
+
 - [Generalized Class Incremental Learning](https://openaccess.thecvf.com/content_CVPRW_2020/html/w15/Mi_Generalized_Class_Incremental_Learning_CVPRW_2020_paper.html), **Fei Mi***, Lingjing Kong*, Tao Lin, Kaichen Yu, Boi Faltings. CVPR Workshop on "Continual Learning in Computer Vision" (CLVISION), 2020.
 
 - [Personalization in Goal-oriented Dialog](https://arxiv.org/abs/1706.07503), Chaitanya K. Joshi, **Fei Mi**, Boi Faltings
