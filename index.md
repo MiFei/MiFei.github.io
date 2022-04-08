@@ -66,7 +66,7 @@ International Conference on Educational Data Mining (EDM), 2017.
 AAAI, 2015.
 
 ### Workshop
-- - [UniDS: A Unified Dialogue System for Chit-Chat and Task-oriented Dialogues](https://arxiv.org/abs/2110.08032). Xinyan Zhao, Bin He, Yasheng Wang, Yitong Li, **Fei Mi**, Yajiao Liu, Xin Jiang, Qun Liu, Huanhuan Chen. ACL Doc2Dial Workshop
+- [UniDS: A Unified Dialogue System for Chit-Chat and Task-oriented Dialogues](https://arxiv.org/abs/2110.08032). Xinyan Zhao, Bin He, Yasheng Wang, Yitong Li, **Fei Mi**, Yajiao Liu, Xin Jiang, Qun Liu, Huanhuan Chen. ACL Doc2Dial Workshop
 
 - [Generalized Class Incremental Learning](https://openaccess.thecvf.com/content_CVPRW_2020/html/w15/Mi_Generalized_Class_Incremental_Learning_CVPRW_2020_paper.html), **Fei Mi***, Lingjing Kong*, Tao Lin, Kaichen Yu, Boi Faltings. CVPR Workshop on "Continual Learning in Computer Vision" (CLVISION), 2020.
 
