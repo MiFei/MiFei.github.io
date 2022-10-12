@@ -31,6 +31,18 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 - [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025). Jiawen Deng, Jingyan Zhou, Hao Sun, **Fei Mi**, Minlie Huang
 
 ### Conference
+- [AEG: Argumentative Essay Generation via A Dual-Decoder Model with Content Planning](). Jianzhu Bao, Yasheng Wang, Yitong Li, Fei Mi and Ruifeng Xu.  EMNLP Main 2022.
+
+- [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025). Jiawen Deng, Jingyan ZHOU, Hao Sun, Chujie Zheng, **Fei Mi**, Helen Meng and Minlie Huang. EMNLP Main 2022.
+
+- [Constructing Highly Inductive Contexts for Dialogue Safety through Controllable Reverse Generation](). Zhexin Zhang, Jiale Cheng, Hao Sun, Jiawen Deng, Fei Mi, Yasheng Wang, Lifeng Shang, Hongning Wang and Minlie Huang. Findings of EMNLP 2022. 
+- 
+- [Towards Identifying Social Bias in Dialog Systems: Frame, Datasets, and Benchmarks](https://arxiv.org/abs/2202.08011). Jingyan Zhou, Jiawen Deng, **Fei Mi**, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen Meng. Findings of EMNLP 2022. 
+
+- [Modeling Complex Dialogue Mappings via Sentence Semantic Segmentation Guided Conditional Variational Auto-Encoder](). Bin Sun, Shaoxiong Feng, Yiwei Li, Weichao Wang, **Fei Mi**, Yitong Li and Kan Li. Findings of EMNLP 2022. 
+
+- [Pan More Gold from the Sand: Refining Open-domain Dialogue Training with Noisy Self-Retrieval Generation](https://arxiv.org/abs/2201.11367). Yihe Wang, Yitong Li, Yasheng Wang, **Fei Mi**, Pingyi Zhou, Xin Wang, Jin Liu, Xin Jiang, Qun Liu. COLING 2022
+
 - [LMTurk: Few-Shot Learners as Crowdsourcing Workers](https://arxiv.org/abs/2112.07522). Mengjie Zhao, **Fei Mi**, Yasheng Wang, Minglei Li, Xin Jiang, Qun Liu, Hinrich Schütze. NAACL Findings 2022
 
 - [Continual Prompt Tuning for Dialog State Tracking](https://openreview.net/pdf/1542aca0b87da0e75a08d20296c7c836c114fc20.pdf). Qi Zhu, Bing Li, **Fei Mi**, Minlie Huang, Xiaoyan Zhu. ACL Main 2022
