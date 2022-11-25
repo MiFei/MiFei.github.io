@@ -29,6 +29,12 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 - [PanGu-Bot: Efficient Generative Dialogue Pre-training from Pre-trained Language Model](https://arxiv.org/abs/2203.17090). **Fei Mi**, Yitong Li, Yulong Zeng, Jingyan Zhou, Yasheng Wang, Chuanfei Xu, Lifeng Shang, Xin Jiang, Shiqi Zhao, Qun Liu
 
 ### Conference
+#### 2023 ----------->
+- [Towards Diverse, Relevant and Coherent Open-Domain Dialogue Generation via Hybrid Latent Variables](). Bin Sun, Yitong Li, **Fei Mi**, Weichao Wang, Yiwei Li, Kan Li. AAAI 2023
+
+- - [KPT: Keyword-guided Pre-training for Grounded Dialog Generation](). Qi Zhu, **Fei Mi**, Zheng Zhang, Yasheng Wang, Yitong Li, Xin Jiang, Qun Liu, Xiaoyan Zhu, Minlie Huang. AAAI 2023
+
+#### 2022 ----------->
 - [AEG: Argumentative Essay Generation via A Dual-Decoder Model with Content Planning](). Jianzhu Bao, Yasheng Wang, Yitong Li, **Fei Mi** and Ruifeng Xu.  EMNLP Main 2022.
 
 - [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025). Jiawen Deng, Jingyan ZHOU, Hao Sun, Chujie Zheng, **Fei Mi**, Helen Meng and Minlie Huang. EMNLP Main 2022.
@@ -50,6 +56,8 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 - [SLIM: Explicit Slot-Intent Mapping with BERT for Joint Multi-Intent Detection and Slot Filling](https://arxiv.org/abs/2108.11711). Fengyu Cai, Wanhao Zhou, **Fei Mi**, Boi Faltings. ICASSP 2022
 
 - [CINS: Comprehensive Instruction for Few-shot Learning in Task-oriented Dialog Systems](https://arxiv.org/abs/2109.04645). **Fei Mi**, Yitong Li, Yasheng Wang. AAAI 2022  ---  :cherries: **Oral** (5%) :+1:
+
+#### Earlier ----------->
 
 - [Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems](https://aclanthology.org/2021.emnlp-main.142/). **Fei Mi**, Wanhao Zhou, Fengyu Cai, Lingjing Kong, Minlie Huang, Boi Faltings. EMNLP 2021  ---  :cherries: **Oral** (5%) :+1:
 
