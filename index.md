@@ -30,20 +30,20 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 
 ### Conference
 #### 2023 ----------->
-- [Towards Diverse, Relevant and Coherent Open-Domain Dialogue Generation via Hybrid Latent Variables](). Bin Sun, Yitong Li, **Fei Mi**, Weichao Wang, Yiwei Li, Kan Li. AAAI 2023
+- [Towards Diverse, Relevant and Coherent Open-Domain Dialogue Generation via Hybrid Latent Variables](https://arxiv.org/abs/2212.01145). Bin Sun, Yitong Li, **Fei Mi**, Weichao Wang, Yiwei Li, Kan Li. AAAI 2023
 
-- - [KPT: Keyword-guided Pre-training for Grounded Dialog Generation](). Qi Zhu, **Fei Mi**, Zheng Zhang, Yasheng Wang, Yitong Li, Xin Jiang, Qun Liu, Xiaoyan Zhu, Minlie Huang. AAAI 2023
+- [KPT: Keyword-guided Pre-training for Grounded Dialog Generation](https://arxiv.org/abs/2212.01739). Qi Zhu, **Fei Mi**, Zheng Zhang, Yasheng Wang, Yitong Li, Xin Jiang, Qun Liu, Xiaoyan Zhu, Minlie Huang. AAAI 2023
 
 #### 2022 ----------->
 - [AEG: Argumentative Essay Generation via A Dual-Decoder Model with Content Planning](). Jianzhu Bao, Yasheng Wang, Yitong Li, **Fei Mi** and Ruifeng Xu.  EMNLP Main 2022.
 
 - [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025). Jiawen Deng, Jingyan ZHOU, Hao Sun, Chujie Zheng, **Fei Mi**, Helen Meng and Minlie Huang. EMNLP Main 2022.
 
-- [Constructing Highly Inductive Contexts for Dialogue Safety through Controllable Reverse Generation](). Zhexin Zhang, Jiale Cheng, Hao Sun, Jiawen Deng, **Fei Mi**, Yasheng Wang, Lifeng Shang, Hongning Wang and Minlie Huang. Findings of EMNLP 2022. 
+- [Constructing Highly Inductive Contexts for Dialogue Safety through Controllable Reverse Generation](https://arxiv.org/abs/2212.01810). Zhexin Zhang, Jiale Cheng, Hao Sun, Jiawen Deng, **Fei Mi**, Yasheng Wang, Lifeng Shang, Hongning Wang and Minlie Huang. Findings of EMNLP 2022. 
 
 - [Towards Identifying Social Bias in Dialog Systems: Frame, Datasets, and Benchmarks](https://arxiv.org/abs/2202.08011). Jingyan Zhou, Jiawen Deng, **Fei Mi**, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen Meng. Findings of EMNLP 2022. 
 
-- [Modeling Complex Dialogue Mappings via Sentence Semantic Segmentation Guided Conditional Variational Auto-Encoder](). Bin Sun, Shaoxiong Feng, Yiwei Li, Weichao Wang, **Fei Mi**, Yitong Li and Kan Li. Findings of EMNLP 2022. 
+- [Modeling Complex Dialogue Mappings via Sentence Semantic Segmentation Guided Conditional Variational Auto-Encoder](https://arxiv.org/abs/2212.00231). Bin Sun, Shaoxiong Feng, Yiwei Li, Weichao Wang, **Fei Mi**, Yitong Li and Kan Li. Findings of EMNLP 2022. 
 
 - [Pan More Gold from the Sand: Refining Open-domain Dialogue Training with Noisy Self-Retrieval Generation](https://arxiv.org/abs/2201.11367). Yihe Wang, Yitong Li, Yasheng Wang, **Fei Mi**, Pingyi Zhou, Xin Wang, Jin Liu, Xin Jiang, Qun Liu. COLING 2022
 
