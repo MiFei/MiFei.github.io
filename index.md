@@ -17,8 +17,8 @@ Fei Mi is a research scientist at Huawei Noah's Ark Lab. He obtained his Ph.D. d
 Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 
 ## News
-- :cherries: Six papers are accepted by ACL 2023 Mian Findings.
-- :cherries: Two papers are accepted by EMNLP 2022 Mian and three papers accepted by EMNLP Findings 2022
+- :cherries: Six papers are accepted by ACL 2023 Main and Findings.
+- :cherries: Two papers are accepted by EMNLP 2022 Main and three papers accepted by EMNLP Findings 2022
 - :cherries: 第一版盘古Bot (PanGu-Bot)中文对话模型已发布!! [详情链接](https://arxiv.org/abs/2203.17090)
 - :cherries: Two papers are accepted by ACL 2022 one paper accepted by NAACL 2022!!
 - :cherries: **Interns are welcome**: we are hiring research interns! If you are interested in **Open-domain Dialog Systems** and **Pre-trained Language Models**, feel free to contact me!!
