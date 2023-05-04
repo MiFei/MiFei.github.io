@@ -17,6 +17,8 @@ Fei Mi is a research scientist at Huawei Noah's Ark Lab. He obtained his Ph.D. d
 Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 
 ## News
+- :cherries: Six papers are accepted by ACL 2023 Mian Findings.
+- :cherries: Two papers are accepted by EMNLP 2022 Mian and three papers accepted by EMNLP Findings 2022
 - :cherries: 第一版盘古Bot (PanGu-Bot)中文对话模型已发布!! [详情链接](https://arxiv.org/abs/2203.17090)
 - :cherries: Two papers are accepted by ACL 2022 one paper accepted by NAACL 2022!!
 - :cherries: **Interns are welcome**: we are hiring research interns! If you are interested in **Open-domain Dialog Systems** and **Pre-trained Language Models**, feel free to contact me!!
@@ -35,7 +37,7 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 - [KPT: Keyword-guided Pre-training for Grounded Dialog Generation](https://arxiv.org/abs/2212.01739). Qi Zhu, **Fei Mi**, Zheng Zhang, Yasheng Wang, Yitong Li, Xin Jiang, Qun Liu, Xiaoyan Zhu, Minlie Huang. AAAI 2023
 
 #### 2022 ----------->
-- [AEG: Argumentative Essay Generation via A Dual-Decoder Model with Content Planning](). Jianzhu Bao, Yasheng Wang, Yitong Li, **Fei Mi** and Ruifeng Xu.  EMNLP Main 2022.
+- [AEG: Argumentative Essay Generation via A Dual-Decoder Model with Content Planning](https://aclanthology.org/2022.emnlp-main.343/). Jianzhu Bao, Yasheng Wang, Yitong Li, **Fei Mi** and Ruifeng Xu.  EMNLP Main 2022.
 
 - [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025). Jiawen Deng, Jingyan ZHOU, Hao Sun, Chujie Zheng, **Fei Mi**, Helen Meng and Minlie Huang. EMNLP Main 2022.
 
