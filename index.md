@@ -32,6 +32,7 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 
 ### Conference
 #### 2023 ----------->
+- [History, Present and Future: Enhancing Dialogue Generation with Few-shot History-Future Prompt](). Yihe Wang, Yitong Li, Yasheng Wang, **Fei Mi**, Pingyi Zhou, Liu Jin, Xin Jiang, Qun Liu. ICASSP 2023
 - [Towards Diverse, Relevant and Coherent Open-Domain Dialogue Generation via Hybrid Latent Variables](https://arxiv.org/abs/2212.01145). Bin Sun, Yitong Li, **Fei Mi**, Weichao Wang, Yiwei Li, Kan Li. AAAI 2023
 
 - [KPT: Keyword-guided Pre-training for Grounded Dialog Generation](https://arxiv.org/abs/2212.01739). Qi Zhu, **Fei Mi**, Zheng Zhang, Yasheng Wang, Yitong Li, Xin Jiang, Qun Liu, Xiaoyan Zhu, Minlie Huang. AAAI 2023
