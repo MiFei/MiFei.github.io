@@ -46,6 +46,19 @@ LLM Alignment
 - [Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogues](https://arxiv.org/abs/2310.08840). EMNLP 2023 Findings
   
 - [Improving Factual Consistency for Knowledge-Grounded Dialogue Systems via Knowledge Enhancement and Alignment](https://aclanthology.org/2023.findings-emnlp.525.pdf). EMNLP 2023 Findings
+
+- [A Synthetic Data Generation Framework for Grounded Dialogues](https://aclanthology.org/2023.acl-long.608/). ACL 2023 Main
+
+- [Retrieval-free Knowledge Injection through Multi-Document Traversal for Dialogue Models]([https://aclanthology.org/2023.acl-long.608/](https://aclanthology.org/2023.acl-long.364.pdf)). ACL 2023 Main
+
+- [DecompEval: Evaluating Generated Texts as Unsupervised Decomposed Question Answering](https://aclanthology.org/2023.acl-long.539/). ACL 2023 Main
+
+- [MoralDial: A Framework to Train and Evaluate Moral Dialogue Systems
+via Moral Discussions](https://aclanthology.org/2023.acl-long.123.pdf). ACL 2023 Main
+
+- [One Cannot Stand for Everyone! Leveraging Multiple User Simulators to train Task-oriented Dialogue Systems](https://aclanthology.org/2023.acl-long.1/). ACL 2023 Main
+
+- [Towards Fewer Hallucinations in Knowledge-Grounded Dialogue Generation via Augmentative and Contrastive Knowledge-Dialogue](https://aclanthology.org/2023.acl-short.148/). ACL 2023 Short
   
 - [Towards Diverse, Relevant and Coherent Open-Domain Dialogue Generation via Hybrid Latent Variables](https://arxiv.org/abs/2212.01145). Bin Sun, Yitong Li, **Fei Mi**, Weichao Wang, Yiwei Li, Kan Li. AAAI 2023
 
