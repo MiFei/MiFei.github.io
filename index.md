@@ -1,7 +1,7 @@
 # Fei Mi (糜飞)
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/2612775/155544406-0db03a08-2076-4553-b75a-0edeafc78e94.JPG">
-Research Scientist, Huawei Noah's Ark Lab,
+Principle Research Scientist, Huawei Noah's Ark Lab,
 
 Shenzhen, China
 
@@ -11,7 +11,7 @@ Email: mifei2 [at] huawei.com
 
 ## General
 
-**Fei Mi is a Principle research scientist at Huawei Noah's Ark Lab, Leading PanGu Model Alignment Research.** He obtained his Ph.D. degree in Computer Science from The Swiss Federal Institute of Technology Lausanne (EPFL) in 2021, supervised by Prof. [Boi Faltings](https://lia.epfl.ch/~faltings/). Prior to that, he obtained his MPhill degree from Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Dit-Yan Yeung](https://sites.google.com/view/dyyeung) and Bachelor degree from a joint program between Sun-Yat Sun University (SYSU) and HKUST.
+**Fei Mi is a Principle research scientist at Huawei Noah's Ark Lab, Leading Huawei PanGu Model Alignment Direction.** He obtained his Ph.D. degree in Computer Science from The Swiss Federal Institute of Technology Lausanne (EPFL) in 2021, supervised by Prof. [Boi Faltings](https://lia.epfl.ch/~faltings/). Prior to that, he obtained his MPhill degree from Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Dit-Yan Yeung](https://sites.google.com/view/dyyeung) and Bachelor degree from a joint program between Sun-Yat Sun University (SYSU) and HKUST.
 
 ## Research Interests
 LLM Alignment
@@ -32,7 +32,7 @@ LLM Alignment
 - [Aligning large language models with human: A survey](https://arxiv.org/abs/2307.12966)
 - [SELF: Language-driven self-evolution for large language model](https://arxiv.org/abs/2310.00533)
 - [FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models](https://arxiv.org/abs/2310.20410)
-- [PanGu-Bot: Efficient Generative Dialogue Pre-training from Pre-trained Language Model](https://arxiv.org/abs/2203.17090). **Fei Mi**, Yitong Li, Yulong Zeng, Jingyan Zhou, Yasheng Wang, Chuanfei Xu, Lifeng Shang, Xin Jiang, Shiqi Zhao, Qun Liu
+- [PanGu-Bot: Efficient Generative Dialogue Pre-training from Pre-trained Language Model](https://arxiv.org/abs/2203.17090). 
 
 ### Conference
 #### 2024 ----------->
