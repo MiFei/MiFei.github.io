@@ -11,12 +11,14 @@ Email: mifei2 [at] huawei.com
 
 ## General
 
-Fei Mi is a research scientist at Huawei Noah's Ark Lab. He obtained his Ph.D. degree in Computer Science from The Swiss Federal Institute of Technology Lausanne (EPFL) in 2021, supervised by Prof. [Boi Faltings](https://lia.epfl.ch/~faltings/). Prior to that, he obtained his MPhill degree from Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Dit-Yan Yeung](https://sites.google.com/view/dyyeung) and Bachelor degree from a joint program between Sun-Yat Sun University (SYSU) and HKUST.
+**Fei Mi is a Principle research scientist at Huawei Noah's Ark Lab, Leading PanGu Model Alignment Research.** He obtained his Ph.D. degree in Computer Science from The Swiss Federal Institute of Technology Lausanne (EPFL) in 2021, supervised by Prof. [Boi Faltings](https://lia.epfl.ch/~faltings/). Prior to that, he obtained his MPhill degree from Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Dit-Yan Yeung](https://sites.google.com/view/dyyeung) and Bachelor degree from a joint program between Sun-Yat Sun University (SYSU) and HKUST.
 
 ## Research Interests
-Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
+LLM Alignment
 
 ## News
+- :cherries: One paper is accepted by ICLR 2024.
+- :cherries: Four papers are accepted by EMNLP 2023 Main and Findings.
 - :cherries: Serving as AC of ACL 2023; Six papers are accepted by ACL 2023 Main and Findings.
 - :cherries: Two papers are accepted by EMNLP 2022 Main and three papers accepted by EMNLP Findings 2022
 - :cherries: 第一版盘古Bot (PanGu-Bot)中文对话模型已发布!! [详情链接](https://arxiv.org/abs/2203.17090)
@@ -27,12 +29,25 @@ Dialog Systems, Pre-trained Language Models, Few-shot Learning and Adaptation.
 ## Publications
 
 ### Pre-prints
-
+- [Data Management For Large Language Models: A Survey](https://arxiv.org/abs/2312.01700)
+- [Aligning large language models with human: A survey](https://arxiv.org/abs/2307.12966)
+- [SELF: Language-driven self-evolution for large language model](https://arxiv.org/abs/2310.00533)
+- [FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models](https://arxiv.org/abs/2310.20410)
 - [PanGu-Bot: Efficient Generative Dialogue Pre-training from Pre-trained Language Model](https://arxiv.org/abs/2203.17090). **Fei Mi**, Yitong Li, Yulong Zeng, Jingyan Zhou, Yasheng Wang, Chuanfei Xu, Lifeng Shang, Xin Jiang, Shiqi Zhao, Qun Liu
 
 ### Conference
+#### 2024 ----------->
+- [Gaining Wisdom from Setbacks: Aligning Large Language Models via Mistake Analysis](https://openreview.net/forum?id=aA33A70IO6) ICLR 2024
+- 
 #### 2023 ----------->
-- [History, Present and Future: Enhancing Dialogue Generation with Few-shot History-Future Prompt](). Yihe Wang, Yitong Li, Yasheng Wang, **Fei Mi**, Pingyi Zhou, Liu Jin, Xin Jiang, Qun Liu. ICASSP 2023
+- [ReSee: Responding through Seeing Fine-grained Visual Knowledge in Open-domain Dialogue](https://aclanthology.org/2023.emnlp-main.479/). EMNLP 2023 Main
+  
+- [Cue-CoT: Chain-of-thought Prompting for Responding to In-depth Dialogue Questions with LLMs](https://openreview.net/forum?id=FRRlmKxuf2). EMNLP 2023 Findings
+  
+- [Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogues](https://arxiv.org/abs/2310.08840). EMNLP 2023 Findings
+  
+- [Improving Factual Consistency for Knowledge-Grounded Dialogue Systems via Knowledge Enhancement and Alignment](https://aclanthology.org/2023.findings-emnlp.525.pdf). EMNLP 2023 Findings
+  
 - [Towards Diverse, Relevant and Coherent Open-Domain Dialogue Generation via Hybrid Latent Variables](https://arxiv.org/abs/2212.01145). Bin Sun, Yitong Li, **Fei Mi**, Weichao Wang, Yiwei Li, Kan Li. AAAI 2023
 
 - [KPT: Keyword-guided Pre-training for Grounded Dialog Generation](https://arxiv.org/abs/2212.01739). Qi Zhu, **Fei Mi**, Zheng Zhang, Yasheng Wang, Yitong Li, Xin Jiang, Qun Liu, Xiaoyan Zhu, Minlie Huang. AAAI 2023
