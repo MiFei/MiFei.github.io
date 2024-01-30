@@ -37,7 +37,7 @@ LLM Alignment
 ### Conference
 #### 2024 ----------->
 - [Gaining Wisdom from Setbacks: Aligning Large Language Models via Mistake Analysis](https://openreview.net/forum?id=aA33A70IO6) ICLR 2024
-- 
+  
 #### 2023 ----------->
 - [ReSee: Responding through Seeing Fine-grained Visual Knowledge in Open-domain Dialogue](https://aclanthology.org/2023.emnlp-main.479/). EMNLP 2023 Main
   
