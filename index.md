@@ -49,7 +49,7 @@ LLM Alignment
 
 - [A Synthetic Data Generation Framework for Grounded Dialogues](https://aclanthology.org/2023.acl-long.608/). ACL 2023 Main
 
-- [Retrieval-free Knowledge Injection through Multi-Document Traversal for Dialogue Models]([https://aclanthology.org/2023.acl-long.608/](https://aclanthology.org/2023.acl-long.364.pdf)). ACL 2023 Main
+- [Retrieval-free Knowledge Injection through Multi-Document Traversal for Dialogue Models]([https://aclanthology.org/2023.acl-long.608/](https://aclanthology.org/2023.acl-long.364.pdf). ACL 2023 Main
 
 - [DecompEval: Evaluating Generated Texts as Unsupervised Decomposed Question Answering](https://aclanthology.org/2023.acl-long.539/). ACL 2023 Main
 
