@@ -17,14 +17,13 @@ Email: mifei2 [at] huawei.com
 LLM Alignment
 
 ## News
+:cherries: **Interns are welcome**: we are hiring research interns! If you are interested in **LLM Alignment**, feel free to contact me!!
 - :cherries: One paper is accepted by ICLR 2024.
 - :cherries: Four papers are accepted by EMNLP 2023 Main and Findings.
 - :cherries: Serving as AC of ACL 2023; Six papers are accepted by ACL 2023 Main and Findings.
 - :cherries: Two papers are accepted by EMNLP 2022 Main and three papers accepted by EMNLP Findings 2022
 - :cherries: 第一版盘古Bot (PanGu-Bot)中文对话模型已发布!! [详情链接](https://arxiv.org/abs/2203.17090)
 - :cherries: Two papers are accepted by ACL 2022 one paper accepted by NAACL 2022!!
-- :cherries: **Interns are welcome**: we are hiring research interns! If you are interested in **Open-domain Dialog Systems** and **Pre-trained Language Models**, feel free to contact me!!
-<img align="center" width="400" alt="20220225-091130(WeLinkPC)" src="https://user-images.githubusercontent.com/2612775/155634611-a1eebbd0-921e-4a28-b89a-0f80e6c71523.png">
 
 ## Publications
 
