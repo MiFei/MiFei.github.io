@@ -11,13 +11,14 @@ Email: mifei2 [at] huawei.com
 
 ## General
 
-**Fei Mi is a Principle research scientist at Huawei Noah's Ark Lab, Leading Huawei PanGu Model Alignment Direction.** He obtained his Ph.D. degree in Computer Science from The Swiss Federal Institute of Technology Lausanne (EPFL) in 2021, supervised by Prof. [Boi Faltings](https://lia.epfl.ch/~faltings/). Prior to that, he obtained his MPhill degree from Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Dit-Yan Yeung](https://sites.google.com/view/dyyeung) and Bachelor degree from a joint program between Sun-Yat Sun University (SYSU) and HKUST.
+**Fei Mi is a Principle research scientist at Huawei Noah's Ark Lab, Working on Huawei PanGu Model Alignment.** He obtained his Ph.D. degree in Computer Science from The Swiss Federal Institute of Technology Lausanne (EPFL) in 2021, supervised by Prof. [Boi Faltings](https://lia.epfl.ch/~faltings/). Prior to that, he obtained his MPhill degree from Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Dit-Yan Yeung](https://sites.google.com/view/dyyeung).
 
 ## Research Interests
 LLM Alignment
 
 ## News
 :cherries: **Interns are welcome**: we are hiring research interns! If you are interested in **LLM Alignment**, feel free to contact me!!
+- :cherries: Three papers are accepted by NAACL 2024.
 - :cherries: One paper is accepted by ICLR 2024.
 - :cherries: Four papers are accepted by EMNLP 2023 Main and Findings.
 - :cherries: Serving as AC of ACL 2023; Six papers are accepted by ACL 2023 Main and Findings.
@@ -37,6 +38,9 @@ LLM Alignment
 ### Conference
 #### 2024 ----------->
 - [Gaining Wisdom from Setbacks: Aligning Large Language Models via Mistake Analysis](https://openreview.net/forum?id=aA33A70IO6) ICLR 2024
+- [Dynamic Stochastic Decoding Strategy for Open-Domain Dialogue Generation](https://openreview.net/forum?id=ffh3zr1xk_O) NAACL 2024
+- [REGA: Role Prompting Guided Multi-Domain Adaptation for Large Language Models](https://arxiv.org/abs/2403.02756) NAACL 2024
+- [Enhancing Large Language Models Against Inductive Instructions with Dual-critique Prompting](https://arxiv.org/abs/2305.13733) NAACL 2024
   
 #### 2023 ----------->
 - [ReSee: Responding through Seeing Fine-grained Visual Knowledge in Open-domain Dialogue](https://aclanthology.org/2023.emnlp-main.479/). EMNLP 2023 Main
