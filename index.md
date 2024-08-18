@@ -34,7 +34,7 @@ LLM Alignment
 - [Aligning large language models with human: A survey](https://arxiv.org/abs/2307.12966)
 - [SELF: Language-driven self-evolution for large language model](https://arxiv.org/abs/2310.00533)
 - [Mixture of insighTful Experts (MoTE): The Synergy of Thought Chains and Expert Mixtures in Self-Alignment](https://arxiv.org/abs/2405.00557)
-- [YODA: Teacher-Student Progressive Learning for Language Models]([https://arxiv.org/abs/2405.00557](https://arxiv.org/abs/2401.15670))
+- [YODA: Teacher-Student Progressive Learning for Language Models](https://arxiv.org/abs/2405.00557](https://arxiv.org/abs/2401.15670)
 - [PanGu-Bot: Efficient Generative Dialogue Pre-training from Pre-trained Language Model](https://arxiv.org/abs/2203.17090). 
 
 ### Conference
