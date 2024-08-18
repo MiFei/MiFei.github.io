@@ -18,7 +18,8 @@ LLM Alignment
 
 ## News
 :cherries: **Interns are welcome**: we are hiring research interns! If you are interested in **LLM Alignment**, feel free to contact me!!
-- :cherries: Three papers are accepted by NAACL 2024.
+- :cherries: Three papers are accepted by ACL 2024.
+- :cherries: Two papers are accepted by NAACL 2024.
 - :cherries: One paper is accepted by ICLR 2024.
 - :cherries: Four papers are accepted by EMNLP 2023 Main and Findings.
 - :cherries: Serving as AC of ACL 2023; Six papers are accepted by ACL 2023 Main and Findings.
@@ -32,13 +33,16 @@ LLM Alignment
 - [Data Management For Large Language Models: A Survey](https://arxiv.org/abs/2312.01700)
 - [Aligning large language models with human: A survey](https://arxiv.org/abs/2307.12966)
 - [SELF: Language-driven self-evolution for large language model](https://arxiv.org/abs/2310.00533)
-- [FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models](https://arxiv.org/abs/2310.20410)
+- [Mixture of insighTful Experts (MoTE): The Synergy of Thought Chains and Expert Mixtures in Self-Alignment](https://arxiv.org/abs/2405.00557)
+- [YODA: Teacher-Student Progressive Learning for Language Models]([https://arxiv.org/abs/2405.00557](https://arxiv.org/abs/2401.15670))
 - [PanGu-Bot: Efficient Generative Dialogue Pre-training from Pre-trained Language Model](https://arxiv.org/abs/2203.17090). 
 
 ### Conference
 #### 2024 ----------->
+- [FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models](https://aclanthology.org/2024.acl-long.257/) ACL 2024
+- [Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization](https://arxiv.org/abs/2311.09096) ACL 2024
+- [Dynamic Stochastic Decoding Strategy for Open-Domain Dialogue Generation](https://openreview.net/forum?id=ffh3zr1xk_O) ACL 2024
 - [Gaining Wisdom from Setbacks: Aligning Large Language Models via Mistake Analysis](https://openreview.net/forum?id=aA33A70IO6) ICLR 2024
-- [Dynamic Stochastic Decoding Strategy for Open-Domain Dialogue Generation](https://openreview.net/forum?id=ffh3zr1xk_O) NAACL 2024
 - [REGA: Role Prompting Guided Multi-Domain Adaptation for Large Language Models](https://arxiv.org/abs/2403.02756) NAACL 2024
 - [Enhancing Large Language Models Against Inductive Instructions with Dual-critique Prompting](https://arxiv.org/abs/2305.13733) NAACL 2024
   
