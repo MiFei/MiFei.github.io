@@ -11,7 +11,7 @@ Email: mifei2 [at] huawei.com
 
 ## General
 
-**Fei Mi is a Principle research scientist at Huawei Noah's Ark Lab, Working on Huawei PanGu Model Alignment.** He obtained his Ph.D. degree in Computer Science from The Swiss Federal Institute of Technology Lausanne (EPFL) in 2021, supervised by Prof. [Boi Faltings](https://lia.epfl.ch/~faltings/). Prior to that, he obtained his MPhill degree from Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Dit-Yan Yeung](https://sites.google.com/view/dyyeung).
+**Fei Mi is a Principle research scientist at Huawei Noah's Ark Lab, Working on Huawei PanGu Model Alignment.** He obtained his Ph.D. degree in Computer Science from The Swiss Federal Institute of Technology Lausanne (EPFL) in 2021, supervised by Prof. [Boi Faltings](https://lia.epfl.ch/~faltings/). Prior to that, he obtained his MPhill degree from Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Dit-Yan Yeung](https://sites.google.com/view/dyyeung). Prior to that, he obtained his Bachelar degree from a join program from Sun-Yat-Sen University and HKUST.
 
 ## Research Interests
 LLM Alignment
